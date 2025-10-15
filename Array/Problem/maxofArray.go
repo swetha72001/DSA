@@ -1,4 +1,4 @@
-package main
+package problem
 
 import "log"
 
@@ -18,8 +18,4 @@ func MaxOfArray() int64 {
 	}
 	log.Println("max>>>", max)
 	return max
-}
-
-func main() {
-	MaxOfArray()
 }

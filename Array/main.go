@@ -5,6 +5,8 @@ import (
 )
 
 func main() {
-	problem.MaxOfArray()
-	problem.RevreseOfArray()
+	// problem.MaxOfArray()
+	// problem.RevreseOfArray()
+	problem.SecondLargest()
+	problem.RotateByKposition()
 }
